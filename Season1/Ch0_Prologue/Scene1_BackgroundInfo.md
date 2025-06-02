@@ -1,10 +1,11 @@
-# Ch0 Prologue / Scene 1 Background Infomation
+# Ch0 Prologue / Scene 1 Background Information
 
 ## 0.1.1 Duty
-Hello and welcome! Appreciate that you can read Ether Aurora. RDFZ FIRST students are given the duty of achieve good results in competitions and challenges, as well as pass the FIRST spirt to younger students. Now the duty is becoming more important to every members of the team. Wish you good luck, all the players!
+Hello and welcome! We appreciate that you can read Ether Aurora. RDFZ FIRST students are expected to achieve good results in competitions and challenges, and pass the FIRST spirit to younger students. Now, this duty is becoming more important to every member of the team. I wish you good luck, all the players!
 
-## 0.1.2 Introduing Ether Aurora
-Ether Aurora is a document which tells you all the things you have to know in FTC. With spending a lot of energy of energy, the author of this document hope you can acquire all the essential things!
+## 0.1.2 Introducing Ether Aurora
+The Ether Aurora is a document that tells you all the things you have to know about the FTC. By spending a lot of energy, the author of this document hopes you can acquire all the essential things!
 
 ## 0.1.3 Say Hello to the Authors!
-- Peter Zihan Lu (Adoramis)
+1.	Peter Zihan Lu
+
